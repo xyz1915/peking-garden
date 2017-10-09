@@ -1,0 +1,126 @@
+
+
+<div class = 'row'>
+                 <div class='col-sm-2 '>
+                  <ul class="category-list"  >
+                    <li  (click) = "getList('appetizers')"  >Appetizer</li>
+                    <li  (click) = "getList('rice')" >Rice</li>
+                    <li (click) = "getList('chopSuey')" >Chop Suey (Bean Sprout)</li>
+                    <li>Chicken</li>
+                    <li>Beef</li>
+                    <li>Pork & SpareRibs</li>
+                    <li>Seafood</li>
+                    <li>Bean Cake/Tofu</li>
+                    <li>Egg Foo Young</li>
+                    <li>Combo for One</li>
+                    <li>Family Dinners</li>
+                    
+                  
+                  </ul>
+                </div>  
+
+                <div class='col-sm-5 '>
+                  <h3><b>{{category}}</b></h3>
+                    <table class="table table-striped" >
+                      <thead>
+                      <tr>
+                        <th> # </th>
+                        <th class ="name-width"> Name </th>
+                        <th align=right> price </th>
+                        <th>  </th>
+                      </tr>
+                      </thead>
+                        <tbody  >
+                        <tr *ngFor= 'let item of foodItemList'>
+                          <th scope = "row"> {{item.food_id}}</th>
+                          <td class ="name-width">{{item.food_name}}
+                            <br/>
+                            
+                              <h5 class="font" *ngIf = 'item.Details!="" '>{{item.Details}}</h5> 
+                            
+                          </td>
+                          <td align=right>{{item.price}}</td>
+                            <td> <button type="button" class="btn btn-primary btn-sm" (click)="add(item)">Add</button></td>
+                          
+                        </tr>
+                      </tbody>  
+                    </table>
+                  </div> 
+
+
+              <div class='col-sm-5  ' >
+                <div class='fixed  '>
+                  <div class="floating-box  " >  
+                      <p> Price Checker</p>                  
+                      <table  >
+                         <ol > 
+                        <thead>
+                            <tr >
+                              <th class="i"> Item </th>
+                              <th class="q"> Quantity </th>
+                              <th class="a"> Amount </th>
+                              <th></th>
+                            </tr>
+                          </thead>
+                          <tbody  >
+                            <ng-container *ngFor='let item of priceCheckerList; let i = index ;'>
+                                 <tr  *ngIf = "item.quantity>0"> 
+                                      <th scope = "row" style="max-width:220px"><li>{{item.name}}</li></th>
+                                      
+                                        
+                                        <td><button type="button" class="btn btn-default btn-sm">
+                                                <span class="glyphicon glyphicon-plus" aria-hidden="true" (click) = "plus(item,i)"></span> 
+                                              </button>
+                                                        {{item.quantity}} 
+                                              <button type="button" class="btn btn-default btn-sm">
+                                              <span class="glyphicon glyphicon-minus" aria-hidden="true" (click) = "minus(item,i)"></span> 
+                                              </button></td>
+                                        <td align=right >{{item.price * item.quantity | currency:'USD':true:'1.2-2'}}</td>
+                                         <td style="padding-left: 10px"> <button type="button" class="btn btn-danger btn-sm" (click)="remove(item,i)">Remove</button></td>
+                                    </tr>
+        
+                                </ng-container>
+
+                                   <tr class="borderTop" >
+                                    <td></td>
+                                    <td >Subtotal:</td>
+                                    <td  ><b> {{ getSubTotal() | currency:'USD':true:'1.2-2'}}</b></td>
+                                    <td></td>
+                                  </tr>
+                                  <tr align=right>
+                                    <td></td>
+                                    <td>Tax:</td>
+                                    <td ><b> {{ getTax() | currency:'USD':true:'1.2-2'}}</b></td>
+                                    <td></td>
+                                  </tr>
+                                  <tr align=right>
+                                    <td></td>
+                                    <td>Total:</td>
+                                    <td ><b>{{ getTotalAmount() | currency:'USD':true:'1.2-2'}}</b></td>
+                                    <td></td>
+                                  </tr> 
+
+                           </tbody>
+                                 </ol> 
+                        </table>
+                  </div>
+                                        <div class="note" >  
+                                          <h3><b>Note:</b></h3>             
+                                    <p >{{reference}}</p>
+                                    <p >{{allergies}}</p>
+                                    <p >{{change}}</p>
+                                        </div>
+
+
+
+
+                  </div>              
+
+              </div>
+              
+             
+             
+</div>
+
+
+

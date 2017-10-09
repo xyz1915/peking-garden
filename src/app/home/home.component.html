@@ -1,0 +1,45 @@
+<h3><b>Since 1977</b>
+    <br/>
+  Dine In  •  Take Out   •   Delivery</h3>
+<div class = 'row'>
+      <div class='col-sm-6 '>
+
+            <carousel class='text-center' style="max-width:200px; max-height:200px;">
+              <slide *ngFor = 'let imageObj of homeImageList'>
+               <a class ='btn btn-default' >
+                  <img class = 'img-main-carousel' [src]='imageObj.image'>
+               </a>
+                <div class="carousel-caption">
+                  <h3>{{imageObj.title}}</h3>
+                  
+                  <!-- <p><a class ='btn btn-default' [href]='imageObj.link'>Video 1 </a></p> -->
+                </div>
+
+              </slide>
+
+            </carousel>
+        </div>
+          <div class="col-sm-5 pad ">
+              <div style="text-align: center;">
+
+                  <h1 class="red"><b>Tel:
+                    416-284-2020</b></h1>
+                  <h2 class="red"><b>416-284-2021</b></h2>
+                    <p><b > <h3 class="red">10% off</h3> on Cash Pick-up on orders over $20 before Tax</b> <br/>
+                                        (Special Combos & Full Course Dinners Not Included) <br/>
+                                                    Or 
+                    </p>
+                                                  
+                    <div style="display: inline-block; text-align: left; border: 8px double #e2be1f;">
+            <h3 style="text-align: center;"><b class="red" >Free </b>(Choose one)</h3>
+                        <ol type="A" style="color:black;">
+                          <li><b>Chicken Fried Rice</b><br/>With order over $30 (before Tax)</li>
+                          <li><b>Deep Fried Chicken Wings</b><br/>With order over $45 (before Tax)</li>
+                          <li><b>General Tso's Chicken</b><br/>With order over $55 (before Tax)</li><br/>
+                        </ol>
+                        <p style ="margin-top:-20px;">Not vaild with any other offers.Limited Time.</p>
+                    </div>
+                </div>
+          </div>
+
+</div>
