@@ -1,0 +1,9 @@
+[
+    {
+        "food_id":"010",
+        "food_name": "Peking Tidbits",
+        "category": "Appetizer",
+        "Details": "Deep Fried Chicken Wings, Shrimps, BBQ Ribs, Sliced BBQ Pork, Egg Roll and Fried Wonton",
+        "price" : "13.50"
+    }
+]

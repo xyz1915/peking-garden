@@ -1,0 +1,65 @@
+[
+    {
+        "food_id":"010",
+        "food_name": "Peking Tidbits",
+        "category": "Appetizer",
+        "Details": "Deep Fried Chicken Wings, Shrimps, BBQ Ribs, Sliced BBQ Pork, Egg Roll and Fried Wonton",
+        "price" : "13.50"
+    },
+        {
+        "food_id":"011",
+        "food_name": "Egg Roll",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "1.00"
+    },
+        {
+        "food_id":"012",
+        "food_name": "Chicken & Shrimp Spring Roll",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "1.50"
+    },
+        {
+        "food_id":"013",
+        "food_name": "Vegetable Spring Roll",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "1.35"
+    },
+        {
+        "food_id":"014",
+        "food_name": "Shrimp Roll",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "1.60"
+    },
+        {
+        "food_id":"015",
+        "food_name": "Fried Wonton w/ Sweet & Sour Sauce",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "4.50"
+    },
+            {
+        "food_id":"016",
+        "food_name": "Deep Fried Chicken Wings",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "8.40"
+    },
+                {
+        "food_id":"017",
+        "food_name": "Barbecued Pork Slices",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "7.75"
+    },
+                {
+        "food_id":"018",
+        "food_name": "Chinese Sauage",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "5.50"
+    }
+  ]
