@@ -1,12 +1,22 @@
-
-
+/*750 oor larger screen, price checker position is fixed*/
 @media (min-width: 750px) {
 
-    .fixed {
-      position: fixed;
+    .floating-box {
+       width:500px;
     }
+
 }
 
+    @media  (max-width: 750px) {
+
+    .floating-box , .note{
+      width: 95%;
+    }
+ 
+}
+
+
+/* 0-600px split category into two lists*/
 @media (max-width: 600px) {
     ul {
       -moz-column-count: 2;
@@ -34,9 +44,11 @@
     background-color:#B0C4DE;
 }
 
-.table td, .table th {
+.col-sm-5  .table td, .table th {
     border: none;
     padding: 5px;
+    color:black;
+   
 }
 
 .table-condensed {
@@ -49,9 +61,6 @@
 
 }
   
-.minWidth{
-    width: 400px;    
-}
 
 h5.font {
     font-style: italic;
@@ -64,35 +73,34 @@ h5.font {
  
 .floating-box {
     display: block;
-    width: 500px;
-    height: 375px;
-    margin: 10px;
+ 
+
     float: none;
     border: 3px solid #CC0000; 
     overflow: scroll;
 }
-
 .i{
 min-width:205px ;
 }
-
+   
 .q{
 min-width:80px;
 }
 
 .a{
 min-width:50px;
-} 
-.col-sm-5 .floating-box table ol{
-   margin-left: -10px;
-}
+}  
+
+
+
 
 .note{
     display: block; 
-    width:500px; 
+    
     color:#cc0000; 
     font-weight:bold;
     overflow:auto; 
     margin: 10px;
 }
+
 
