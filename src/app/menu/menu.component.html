@@ -34,6 +34,8 @@
                         <tr *ngFor= 'let item of foodItemList'>
                           <th scope = "row"> {{item.food_id}}</th>
                           <td class ="name-width">{{item.food_name}}
+                            <img *ngIf= "item.spicy==true" src="./assets/images/nature/chili.png" alt="chili" width="5%" height="0.8%">
+
                             <br/>
                             
                               <h5 class="font" *ngIf = 'item.Details!="" '>{{item.Details}}</h5> 

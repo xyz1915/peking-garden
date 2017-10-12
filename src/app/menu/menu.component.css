@@ -10,7 +10,7 @@
     @media  (max-width: 750px) {
 
     .floating-box , .note{
-      width: 98%;
+      width: 100%;
     }
  
 }
@@ -50,6 +50,9 @@
     color:black;
    
 }
+.floating-box table td, table th {
+   padding-bottom: 8px;
+}
 
 .table-condensed {
     border: 1px solid black;    
@@ -77,10 +80,10 @@ h5.font {
 
     float: none;
     border: 3px solid #CC0000; 
-    overflow: scroll;
+    overflow: auto;
 }
 .i{
-min-width:205px ;
+min-width:220px ;
 }
    
 .q{

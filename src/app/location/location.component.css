@@ -10,5 +10,9 @@ agm-map {
 }
 
 .table td{
-  font-size:h5
+  font-size:h4
+}
+
+table td{
+  padding:5px;
 }
