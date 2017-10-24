@@ -1,0 +1,82 @@
+[
+
+        {
+        "food_id":"143",
+        "food_name": "Peking Fried Rice",
+        "category": "Rice",
+        "Details": "Chicken, Pork, Shrimps and Chinese Sauage",
+        "price" : "7.95"
+    },
+            {
+        "food_id":"144",
+        "food_name": "Steam Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "2.00"
+    },
+        {
+        "food_id":"145",
+        "food_name": "Plain Fried Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "4.80"
+    },
+        {
+        "food_id":"146",
+        "food_name": "Vegetable Fried Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "5.80"
+    },
+            {
+        "food_id":"147",
+        "food_name": "Mushroom Fried Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "5.95"
+    },
+
+    {
+        "food_id":"148",
+        "food_name": "Chicken Fried Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "6.50"
+    },
+    {
+        "food_id":"051",
+        "food_name": "Beef Fried Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "6.50"
+    },
+    {
+        "food_id":"149",
+        "food_name": "Pork Fried Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "6.50"
+    },
+    {
+        "food_id":"053",
+        "food_name": "Shrimp Fried Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "7.60"
+    },
+        {
+        "food_id":"053",
+        "food_name": "Yong Chow Fried Rice",
+        "category": "Rice",
+        "Details": "BBQ Pork & Shrimp",
+        "price" : "7.95"
+    },
+    {
+        "food_id":"150",
+        "food_name": "Bacon Fried Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "7.50"
+    }
+
+  ]
