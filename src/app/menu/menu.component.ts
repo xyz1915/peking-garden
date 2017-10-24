@@ -32,9 +32,10 @@ priceCheckerList= new Array();
 total =0.00
 foodItemList=new Array();
 
-everythingList = new Array();
+noodleList = new Array();
 appetizerList=new Array();
 riceList=new Array();
+comboList=new Array();
 
  
 category="Appetizers";
@@ -59,7 +60,10 @@ category="Appetizers";
       this.riceList =data.json()      
     })
       this.request = this._http.get('assets/json/noodles.json').subscribe(data => {        
-      this.everythingList =data.json()
+      this.noodleList =data.json()
+    })
+          this.request = this._http.get('assets/json/combos.json').subscribe(data => {        
+      this.comboList =data.json()
     })
           
   }
@@ -73,7 +77,7 @@ category="Appetizers";
 
   switch(str) { 
 
-    case "appetizers": 
+    case "appetizer": 
       this.foodItemList = this.appetizerList; 
       this.category="Appetizers";
       break; 
@@ -83,10 +87,14 @@ category="Appetizers";
       this.category="Rice";
       break; 
    
-   case "chopSuey": 
-      this.foodItemList = this.everythingList; 
-      this.category="Chop Suey (Bean Sprout)";
+   case "noodle": 
+      this.foodItemList = this.noodleList; 
+      this.category="Noodles";
       break; 
+   case "combo": 
+      this.foodItemList = this.comboList; 
+      this.category="Combo For One";
+      break;
    default:  
      this.foodItemList = this.appetizerList; 
      this.category="Appetizers";
