@@ -1,0 +1,50 @@
+[
+    {
+        "food_id":"161",
+        "food_name": "Spicy Chicken Wings (12)",
+        "category": "Chef's Suggestions",
+        "Details": "",
+        "price" : "8.95",
+        "spicy": true
+    },
+        {
+        "food_id":"162",
+        "food_name": "Salty Pepper Chicken",
+        "category": "Chef's Suggestions",
+        "Details": "",
+        "price" : "9.75",
+        "spicy": true
+    },
+        {
+        "food_id":"163",
+        "food_name": "Sesame Chicken or Beef",
+        "category": "Chef's Suggestions",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": false
+    },
+        {
+        "food_id":"164",
+        "food_name": "Ginger Chicken or Beef",
+        "category": "Chef's Suggestions",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": true
+    },
+        {
+        "food_id":"165",
+        "food_name": "Black Pepper Beef",
+        "category": "Chef's Suggestions",
+        "Details": ["Beef Stir Fried w/ Green Pepper & Onions"],
+        "price" : "9.95",
+        "spicy": true
+    },
+        {
+        "food_id":"166",
+        "food_name": "Salty Pepper Shrimp or Squid",
+        "category": "Chef's Suggestions",
+        "Details": "",
+        "price" : "10.95",
+        "spicy": true
+    }
+]

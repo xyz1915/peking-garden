@@ -1,0 +1,67 @@
+[
+
+    {
+        "food_id":"020",
+        "food_name": "Wonton Soupw/ B.B.Q. Pork",
+        "category": "Soup",
+        "Details": "",
+        "price" : "3.50",
+        "spicy": false
+    },
+    {
+        "food_id":"021",
+        "food_name": "Consomme Soup",
+        "category": "Soup",
+        "Details": "",
+        "price" : "2.95",
+        "spicy": false
+    },
+    {
+        "food_id":"022",
+        "food_name": "Chicken Rice Soup",
+        "category": "Soup",
+        "Details": "",
+        "price" : "3.25",
+        "spicy": false
+    },
+    {
+        "food_id":"023",
+        "food_name": "Chicken Corn Soup",
+        "category": "Soup",
+        "Details": "",
+        "price" : "3.50",
+        "spicy": false
+    },
+    {
+        "food_id":"024",
+        "food_name": "Mushroom Egg Drop Soup",
+        "category": "Soup",
+        "Details": "",
+        "price" : "2.95",
+        "spicy": false
+    },
+    {
+        "food_id":"025",
+        "food_name": "Hot & Sour Soup with Pork",
+        "category": "Soup",
+        "Details": "",
+        "price" : "3.50",
+        "spicy": true
+    },
+        {
+        "food_id":"026",
+        "food_name": "Hot & Sour Soup with Chicken",
+        "category": "Soup",
+        "Details": "",
+        "price" : "3.50",
+        "spicy": true
+    },
+        {
+        "food_id":"027",
+        "food_name": "Wonton Soup w/ Noodles",
+        "category": "Soup",
+        "Details": "",
+        "price" : "3.95",
+        "spicy": false
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "food_id":"130",
+        "food_name": "Sweet & Sour Chicken Balls",
+        "category": "Sweer & Sour",
+        "Details": "",
+        "price" : "8.75",
+        "spicy": false
+    },
+        {
+        "food_id":"131",
+        "food_name": "Sweet & Sour Shrimps",
+        "category": "Sweer & Sour",
+        "Details": "",
+        "price" : "9.50",
+        "spicy": false
+    },
+        {
+        "food_id":"132",
+        "food_name": "Sweet & Sour SpareRibs",
+        "category": "Sweer & Sour",
+        "Details": "",
+        "price" : "7.50",
+        "spicy": false
+    },
+        {
+        "food_id":"133",
+        "food_name": "Sweet & Sour Pork or Chicken with Pineapple",
+        "category": "Sweer & Sour",
+        "Details": "",
+        "price" : "9.50",
+        "spicy": false
+    },
+        {
+        "food_id":"134",
+        "food_name": "Sweet & Sour or Lemon Sauce ",
+        "category": "Sweer & Sour",
+        "Details": "",
+        "price" : "1.25",
+        "spicy": false
+    }
+]

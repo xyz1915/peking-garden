@@ -1,0 +1,55 @@
+[
+    {
+        "food_id":"2A1",
+        "food_name": "Dinner for 2A1",
+        "category": "Family",
+        "Details": ["2 Egg Rolls","Chicken Chop Suey", "Sweet & Sour Spareribs","Deep Fried Chicken Wings(6)", "Chicken Fried Rice"],
+        "price" : "22.95",
+        "spicy":false
+    },
+    {
+        "food_id":"2A2",
+        "food_name": "Dinner for 2A2",
+        "category": "Family",
+        "Details": ["2 Egg Rolls","Chicken Chop Suey", "Sweet & Sour Chicken Balls (8) ","Deep Fried Chicken Wings(6)", "Chicken Fried Rice"],
+        "price" : "22.95",
+        "spicy":false
+    },
+    {
+        "food_id":"3A1",
+        "food_name": "Dinner for 3A1",
+        "category": "Family",
+        "Details": ["3 Egg Rolls","Chicken Chop Suey","Beef & Mixed Veg", "Sweet & Sour Chicken Balls", "Chicken Fried Rice"],
+        "price" : "28.95",
+        "spicy":false
+    },    {
+        "food_id":"3A2",
+        "food_name": "Dinner for 3A2",
+        "category": "Family",
+        "Details": ["3 Egg Rolls","Chicken Chop Suey", "Beef & Mixed Veg","Sweet & Sour Chicken Balls","Deep Fried Chicken Wings", "Chicken Fried Rice"],
+        "price" : "35.95",
+        "spicy":false
+    },    {
+        "food_id":"4A",
+        "food_name": "Dinner for 4",
+        "category": "Family",
+        "Details": ["4 Egg Rolls","Chicken Chop Suey","Beef & Mixed Veg", "Sweet & Sour Spareribs","Sweet & Sour Chicken Balls","Deep Fried Chicken Wings", "Chicken Fried Rice"],
+        "price" : "42.95",
+        "spicy":false
+    },    {
+        "food_id":"5A",
+        "food_name": "Dinner for 5",
+        "category": "Family",
+        "Details": ["5 Egg Rolls","Chicken Chop Suey(L)","Beef & Mixed Veg", "Sweet & Sour Spareribs(L)","Breaded Jumbo Shrimp","Sweet & Sour Chicken Balls(L)","Deep Fried Chicken Wings(L)", "Chicken Fried Rice(L)"],
+        "price" : "57.95",
+        "spicy":false
+    },    {
+        "food_id":"6A",
+        "food_name": "Dinner for 6",
+        "category": "Family",
+        "Details": ["6 Egg Rolls","Chicken Chop Suey (L)","Beef & Mixed Veg(L)", "Sweet & Sour Spareribs(L)","Cantonese Chow Mein","Sweet & Sour Chicken Balls (L)","Deep Fried Chicken Wings (L)", "Chicken Fried Rice (2)"],
+        "price" : "68.95",
+        "spicy":false
+    }
+]
+ 
