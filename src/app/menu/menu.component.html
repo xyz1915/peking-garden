@@ -4,16 +4,21 @@
                  <div class='col-sm-2 '>
                   <ul class="category-list"  >
                     <li  (click) = "getList('appetizer')"  >Appetizer</li>
+                    <li  (click) = "getList('soup')">Soup</li>
                     <li  (click) = "getList('rice')" >Rice</li>
                     <li (click) = "getList('noodle')" >Noodles</li>
-                    <li>Chicken</li>
-                    <li>Beef</li>
-                    <li>Pork & SpareRibs</li>
-                    <li>Seafood</li>
-                    <li>Bean Cake/Tofu</li>
-                    <li>Egg Foo Young</li>
-                    <li (click) = "getList('combo')" >Combo for One</li>
-                    <li>Family Dinners</li>
+                    <li  (click) = "getList('poultry')">Chicken</li>
+                    <li  (click) = "getList('beef')">Beef</li>
+                    <li  (click) = "getList('pork')">Pork & SpareRibs</li>
+                    <li  (click) = "getList('sweetnsour')">Sweet & Sour</li>
+                    <li  (click) = "getList('spicy')">Hot & Spicy</li>
+                    <li  (click) = "getList('vegetable')">Vegetables</li>
+                    <li  (click) = "getList('seafood')">Seafood</li>
+                    <li  (click) = "getList('chef')">Chef's Suggestions</li>
+                    <li  (click) = "getList('eggfooyong')">Egg Foo Young</li>
+                    
+                    <li (click) = "getList('combo')" >Combo for One </li>
+                    <li (click) = "getList('family')">Family Dinners</li>
                     
                   
                   </ul>
@@ -21,6 +26,7 @@
 
                 <div class='col-sm-5 '>
                   <h3><b>{{category}}</b></h3>
+                  <p *ngIf = 'category == "Combo For One" || category =="Family Dinners" '>(No Discount or Substitutions)</p>
                     <table class="table table-striped" >
                       <thead>
                       <tr>
@@ -38,7 +44,7 @@
 
                             <br/>
                             
-                              <h5 class="font" *ngIf = 'item.Details!="" '>{{item.Details}}</h5> 
+                              <h5 class="font" *ngIf = 'item.Details!="" '><div *ngFor ='let detail of item.Details'>{{detail}}</div></h5> 
                             
                           </td>
                           <td align=right>{{item.price}}</td>

@@ -1,0 +1,50 @@
+[
+    {
+        "food_id":"030",
+        "food_name": "Shrimps & Chicken Chop Suey",
+        "category": "Chop Suey",
+        "Details": "",
+        "price" : "8.95",
+        "spicy": false
+    },
+        {
+        "food_id":"031",
+        "food_name": "Shrimp Chop Suey",
+        "category": "Chop Suey",
+        "Details": "",
+        "price" : "7.95",
+        "spicy": false
+    },
+        {
+        "food_id":"032",
+        "food_name": "Chicken Chop Suey",
+        "category": "Chop Suey",
+        "Details": "",
+        "price" : "7.50",
+        "spicy": false
+    },
+        {
+        "food_id":"033",
+        "food_name": "Beef Chop Suey",
+        "category": "Chop Suey",
+        "Details": "",
+        "price" : "7.50",
+        "spicy": false
+    },
+        {
+        "food_id":"034",
+        "food_name": "B.B.Q. Pork Chop Suey",
+        "category": "Chop Suey",
+        "Details": "",
+        "price" : "7.50",
+        "spicy": false
+    },
+        {
+        "food_id":"035",
+        "food_name": "Vegetable Chop Suey",
+        "category": "Chop Suey",
+        "Details": "",
+        "price" : "6.50",
+        "spicy": false
+    }
+]

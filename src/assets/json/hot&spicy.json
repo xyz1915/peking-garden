@@ -1,0 +1,50 @@
+[
+    {
+        "food_id":"080",
+        "food_name": "Hunan Beef",
+        "category": "Spicy",
+        "Details": "",
+        "price" : "9.50",
+        "spicy": true
+    },
+        {
+        "food_id":"081",
+        "food_name": "Kum Poo Diced Chicken or Beef",
+        "category": "Spicy",
+        "Details": ["with Diced Vegetables"],
+        "price" : "8.95",
+        "spicy": true
+    },
+        {
+        "food_id":"082",
+        "food_name": "Chili Shrimp",
+        "category": "Spicy",
+        "Details": "",
+        "price" : "10.95",
+        "spicy": true
+    },
+        {
+        "food_id":"083",
+        "food_name": "Kum Poo Jumbo Shrimp",
+        "category": "Spicy",
+        "Details": "",
+        "price" : "9.75",
+        "spicy": true
+    },
+        {
+        "food_id":"084",
+        "food_name": "Chili Chicken or Beef",
+        "category": "Spicy",
+        "Details": "",
+        "price" : "9.75",
+        "spicy": true
+    },
+        {
+        "food_id":"085",
+        "food_name": "General Tso's Chicken",
+        "category": "Spicy",
+        "Details": "",
+        "price" : "9.75",
+        "spicy": true
+    }
+]

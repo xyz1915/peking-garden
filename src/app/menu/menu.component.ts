@@ -36,6 +36,20 @@ noodleList = new Array();
 appetizerList=new Array();
 riceList=new Array();
 comboList=new Array();
+familyList=new Array();
+soupList  = new Array();
+chopsueyList  = new Array();
+spicyList  = new Array();
+seafoodList  = new Array();
+eggfooyongList  = new Array();
+sweetnsourList  = new Array();
+poultryList  = new Array();
+beefList  = new Array();
+porkList  = new Array();
+vegetableList  = new Array();
+chefList = new Array();
+
+
 
  
 category="Appetizers";
@@ -65,6 +79,46 @@ category="Appetizers";
           this.request = this._http.get('assets/json/combos.json').subscribe(data => {        
       this.comboList =data.json()
     })
+          this.request = this._http.get('assets/json/familydinners.json').subscribe(data => {        
+      this.familyList =data.json()
+    })
+    this.request = this._http.get('assets/json/soups.json').subscribe(data => {        
+      this.soupList =data.json()
+    })
+    this.request = this._http.get('assets/json/chopsuey.json').subscribe(data => {        
+      this.chopsueyList =data.json()
+    })
+    this.request = this._http.get('assets/json/hot&spicy.json').subscribe(data => {        
+      this.spicyList =data.json()
+    })
+    this.request = this._http.get('assets/json/seafood.json').subscribe(data => {        
+      this.seafoodList =data.json()
+    })
+    this.request = this._http.get('assets/json/eggfooyong.json').subscribe(data => {        
+      this.eggfooyongList =data.json()
+    })
+    this.request = this._http.get('assets/json/sweetnsour.json').subscribe(data => {        
+      this.sweetnsourList =data.json()
+    })
+    this.request = this._http.get('assets/json/poultry.json').subscribe(data => {        
+      this.poultryList =data.json()
+    })
+    this.request = this._http.get('assets/json/beef.json').subscribe(data => {        
+      this.beefList =data.json()
+    })
+    this.request = this._http.get('assets/json/pork.json').subscribe(data => {        
+      this.porkList =data.json()
+    })
+    this.request = this._http.get('assets/json/vegetables.json').subscribe(data => {        
+      this.vegetableList =data.json()
+    })
+    this.request = this._http.get('assets/json/chef.json').subscribe(data => {        
+      this.chefList =data.json()
+    })
+    
+    
+
+    
           
   }
 
@@ -94,6 +148,54 @@ category="Appetizers";
    case "combo": 
       this.foodItemList = this.comboList; 
       this.category="Combo For One";
+      break;
+   case "family": 
+      this.foodItemList = this.familyList; 
+      this.category="Family Dinners";
+      break;
+  case "soup": 
+      this.foodItemList = this.soupList; 
+      this.category="Soups";
+      break;
+  case "chopsuey": 
+      this.foodItemList = this.chopsueyList; 
+      this.category="Chop Suey (Bean Sprout)";
+      break;
+  case "spicy": 
+      this.foodItemList = this.spicyList; 
+      this.category="Hot & Spicy";
+      break;
+  case "seafood": 
+      this.foodItemList = this.seafoodList; 
+      this.category="Seafood";
+      break;
+  case "eggfooyong": 
+      this.foodItemList = this.eggfooyongList; 
+      this.category="Egg Foo Yong";
+      break;
+  case "sweetnsour": 
+      this.foodItemList = this.sweetnsourList; 
+      this.category="Sweer & Sour";
+      break;
+  case "poultry": 
+      this.foodItemList = this.poultryList; 
+      this.category="Chicken";
+      break;
+  case "beef": 
+      this.foodItemList = this.beefList; 
+      this.category="Beef";
+      break;
+  case "pork": 
+      this.foodItemList = this.porkList; 
+      this.category="Pork & SpareRibs";
+      break;
+  case "vegetable": 
+      this.foodItemList = this.vegetableList; 
+      this.category="Vegetables";
+      break;
+  case "chef": 
+      this.foodItemList = this.chefList; 
+      this.category="Chef's Suggestions";
       break;
    default:  
      this.foodItemList = this.appetizerList; 

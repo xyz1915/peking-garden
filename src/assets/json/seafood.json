@@ -1,0 +1,50 @@
+[
+    {
+        "food_id":"120",
+        "food_name": "Shrimps in Oyster Sauce",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": false
+    },
+        {
+        "food_id":"121",
+        "food_name": "Shrimps w/ Diced Vegs & Almonds",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "8.95",
+        "spicy": false
+    },
+        {
+        "food_id":"122",
+        "food_name": "Shrimps w/ Mixed Vegetables",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": false
+    },
+        {
+        "food_id":"123",
+        "food_name": "Shrimps w/ Lobster Sauce",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": false
+    },
+        {
+        "food_id":"124",
+        "food_name": "Special Mixed Seafood",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "12.95",
+        "spicy": false
+    },
+        {
+        "food_id":"125",
+        "food_name": "Calamari & Shrimps w/ Mixed Vegetables",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "12.95",
+        "spicy": false
+    }
+]

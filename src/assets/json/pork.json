@@ -1,0 +1,50 @@
+[
+    {
+        "food_id":"100",
+        "food_name": "Pork",
+        "category": "Pork",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": false
+    },
+        {
+        "food_id":"101",
+        "food_name": "B.B.Q. Pork SpareRibs (6 pcs)",
+        "category": "Pork",
+        "Details": "",
+        "price" : "10.50",
+        "spicy": false
+    },
+        {
+        "food_id":"102",
+        "food_name": "Vancouver Dry Garlic SpareRibs",
+        "category": "Pork",
+        "Details": "",
+        "price" : "10.50",
+        "spicy": false
+    },
+        {
+        "food_id":"103",
+        "food_name": "Honey Garlic SpareRibs",
+        "category": "Pork",
+        "Details": "",
+        "price" : "9.75",
+        "spicy": false
+    },
+        {
+        "food_id":"104",
+        "food_name": "Pork w/ Diced Vegs & Almonds",
+        "category": "Pork",
+        "Details": "",
+        "price" : "8.95",
+        "spicy": false
+    },
+        {
+        "food_id":"105",
+        "food_name": "Curry Pork",
+        "category": "Pork",
+        "Details": "",
+        "price" : "8.95",
+        "spicy": false
+    }
+]
