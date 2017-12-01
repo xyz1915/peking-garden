@@ -36,7 +36,7 @@
         "food_name": "Moo Koo Gai Pan",
         "category": "Poultry",
         "Details": ["Chicken w/ Mushrooms and Vegetables"],
-        "price" : "9.25",
+        "price" : "9.50",
         "spicy": false
     },
             {
@@ -86,5 +86,29 @@
         "Details": ["Straws & Fresh Mushrooms, Celery, Pea Pods & Baby Corn with Chicken"],
         "price" : "10.75",
         "spicy": false
+    },
+              {
+        "food_id":"071",
+        "food_name": "Chicken in Black Bean Sauce",
+        "category": "Poultry",
+        "Details": "",
+        "price" : "8.95",
+        "spicy": false
+    },
+              {
+        "food_id":"072",
+        "food_name": "Curry Chicken",
+        "category": "Poultry",
+        "Details": "",
+        "price" : "9.50",
+        "spicy": true
+    },
+              {
+        "food_id":"073",
+        "food_name": "Black Pepper Chicken",
+        "category": "Poultry",
+        "Details": "",
+        "price" : "8.95",
+        "spicy": true
     }
 ]
