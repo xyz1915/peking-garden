@@ -36,7 +36,7 @@
         "food_name": "Beef w/ Mushrooms & Onions",
         "category": "Beef",
         "Details": "",
-        "price" : "9.25",
+        "price" : "9.50",
         "spicy": false
     },
         {
@@ -74,6 +74,14 @@
             {
         "food_id":"099",
         "food_name": "Beef in Black Bean Sauce",
+        "category": "Beef",
+        "Details": "",
+        "price" : "9.50",
+        "spicy": false
+    },
+            {
+        "food_id":"100",
+        "food_name": "Curry Beef",
         "category": "Beef",
         "Details": "",
         "price" : "9.50",

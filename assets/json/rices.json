@@ -5,7 +5,7 @@
         "food_name": "Peking Fried Rice",
         "category": "Rice",
         "Details": ["Chicken, Pork, Shrimps and Chinese Sauage"],
-        "price" : "7.95",
+        "price" : "8.25",
         "spicy": false
         
     },
@@ -30,7 +30,7 @@
         "food_name": "Vegetable Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "5.80",
+        "price" : "5.95",
         "spicy": false
     },
             {
@@ -71,7 +71,7 @@
         "food_name": "Shrimp Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "7.60",
+        "price" : "7.75",
         "spicy": false
     },
         {

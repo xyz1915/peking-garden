@@ -4,7 +4,7 @@
         "food_name": "Sauteed Broccoli",
         "category": "Vegetable",
         "Details": "",
-        "price" : "6.95",
+        "price" : "7.50",
         "spicy": false
     },
         {
@@ -12,7 +12,7 @@
         "food_name": "Sauteed Mix Vegetables",
         "category": "Vegetable",
         "Details": "",
-        "price" : "7.75",
+        "price" : "7.50",
         "spicy": false
     },
         {
@@ -20,7 +20,7 @@
         "food_name": "Diced Vegs & Almonds",
         "category":"" ,
         "Details": "",
-        "price" : "6.95",
+        "price" : "7.50",
         "spicy": false
     },
         {
@@ -41,7 +41,7 @@
     },
         {
         "food_id":"115",
-        "food_name": "Tofu w/ Mix Vegs",
+        "food_name": "Tofu w/ Mix Vegs (Garlic/Black Bean)",
         "category": "Vegetable",
         "Details": "",
         "price" : "7.95",
@@ -54,6 +54,14 @@
         "Details": "",
         "price" : "7.95",
         "spicy": true
+    },
+              {
+        "food_id":"116",
+        "food_name": "Chinese Bakchoy",
+        "category": "Vegetable",
+        "Details": "",
+        "price" : "7.50",
+        "spicy": false
     }
 ]
     

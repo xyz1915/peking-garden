@@ -4,11 +4,19 @@
         "food_name": "Shrimps in Oyster Sauce",
         "category": "Seafood",
         "Details": "",
-        "price" : "9.95",
+        "price" : "10.50",
         "spicy": false
     },
         {
         "food_id":"121",
+        "food_name": "Shrimps w/ Broccoli",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "10.50",
+        "spicy": false
+    },
+        {
+        "food_id":"122",
         "food_name": "Shrimps w/ Diced Vegs & Almonds",
         "category": "Seafood",
         "Details": "",
@@ -16,35 +24,55 @@
         "spicy": false
     },
         {
-        "food_id":"122",
+        "food_id":"123",
         "food_name": "Shrimps w/ Mixed Vegetables",
         "category": "Seafood",
         "Details": "",
-        "price" : "9.95",
-        "spicy": false
-    },
-        {
-        "food_id":"123",
-        "food_name": "Shrimps w/ Lobster Sauce",
-        "category": "Seafood",
-        "Details": "",
-        "price" : "9.95",
+        "price" : "10.50",
         "spicy": false
     },
         {
         "food_id":"124",
+        "food_name": "Shrimps w/ Lobster Sauce",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "10.50",
+        "spicy": false
+    },
+  
+        {
+        "food_id":"125",
         "food_name": "Special Mixed Seafood",
         "category": "Seafood",
         "Details": "",
         "price" : "12.95",
         "spicy": false
     },
+  
         {
-        "food_id":"125",
+        "food_id":"126",
         "food_name": "Calamari & Shrimps w/ Mixed Vegetables",
         "category": "Seafood",
         "Details": "",
         "price" : "12.95",
+        "spicy": false
+    },
+  
+        {
+        "food_id":"127",
+        "food_name": "Chicken, Shrimps & Scallops w/ Mixed Vegetables",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "11.95",
+        "spicy": false
+    },
+  
+        {
+        "food_id":"128",
+        "food_name": "Curry Shrimps",
+        "category": "Seafood",
+        "Details": "",
+        "price" : "10.50",
         "spicy": false
     }
 ]

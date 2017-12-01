@@ -1,10 +1,10 @@
 [
     {
         "food_id":"100",
-        "food_name": "Pork",
+        "food_name": "B.B.Q. Pork w/ Mixed Vegetables",
         "category": "Pork",
         "Details": "",
-        "price" : "9.95",
+        "price" : "8.95",
         "spicy": false
     },
         {
@@ -44,7 +44,7 @@
         "food_name": "Curry Pork",
         "category": "Pork",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.50",
         "spicy": false
     }
 ]
