@@ -87,7 +87,7 @@
         "food_name": "Fried Flat Rice Noodle with Beef",
         "category": "Noodles",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.50",
         "spicy": false
     },
             {
@@ -95,7 +95,7 @@
         "food_name": "Thai Rice Noodle",
         "category": "Noodles",
         "Details": ["Stir Fried Flat Rice Noodle with Shrimps, Chicken & Egg in Pad Thai Flavour Sauce"],
-        "price" : "8.95",
+        "price" : "9.50",
         "spicy": true
     },
 
@@ -104,7 +104,7 @@
         "food_name": "Singapore Mi-Fun (Fried Vermicelli)",
         "category": "Noodles",
         "Details": ["Spicy Curry Flavour w/ Shrimps & BBQ Pork"],
-        "price" : "8.95",
+        "price" : "9.50",
         "spicy": true
     },
     
