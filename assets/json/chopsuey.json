@@ -3,7 +3,7 @@
         "food_id":"030",
         "food_name": "Peking Special Chop Suey",
         "category": "Chop Suey",
-        "Details": ["Bean Sprout w/ Chicken, Pork and Shrimp"],
+        "Details": ["Bean Sprout w/ Chicken, Beef, Pork and Shrimp"],
         "price" : "8.95",
         "spicy": false
     },

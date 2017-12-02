@@ -4,7 +4,7 @@
         "food_id":"030",
         "food_name": "Peking Fried Rice",
         "category": "Rice",
-        "Details": ["Chicken, Pork, Shrimps and Chinese Sauage"],
+        "Details": ["Chicken, Beef, Pork and Shrimps"],
         "price" : "8.25",
         "spicy": false
         

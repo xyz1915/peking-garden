@@ -4,7 +4,7 @@
         "food_name": "Combo #1",
         "category": "Combo",
         "Details": ["Sweet & Sour Spareribs","Chicken Chop Suey", "Chicken Fried Rice"],
-        "price" : "7.75",
+        "price" : "7.95",
         "spicy":false
     },
         {
@@ -12,7 +12,7 @@
         "food_name": "Combo #2",
         "category": "Appetizer",
         "Details": ["Sweet & Sour Chicken Balls (4)","Chicken Chop Suey", "Chicken Fried Rice"],
-        "price" : "7.95",
+        "price" : "8.25",
         "spicy":false
     },
         {
@@ -68,7 +68,7 @@
         "food_name": "Combo #9",
         "category": "Appetizer",
         "Details": ["Deep Fried Chicken Wings", "Chicken Fried Rice"],
-        "price" : "7.30",
+        "price" : "7.25",
         "spicy":false
     },
         {
@@ -76,7 +76,7 @@
         "food_name": "Combo #10",
         "category": "Appetizer",
         "Details": ["Sweet & Sour Chicken Balls", "Chicken Fried Rice"],
-        "price" : "7.30",
+        "price" : "7.25",
         "spicy":false
     },
         {
@@ -92,7 +92,7 @@
         "food_name": "Combo #12",
         "category": "Appetizer",
         "Details": ["Sweet & Sour Spareribs", "Chicken Fried Rice"],
-        "price" : "7.30",
+        "price" : "7.25",
         "spicy":false
     },
             {

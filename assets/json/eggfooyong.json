@@ -3,7 +3,7 @@
         "food_id":"140",
         "food_name": "Peking Special Egg Foo Yong",
         "category": "Egg Foo Yong",
-        "Details": ["Chicken, Pork, Shrimps and Chinese Sauage"],
+        "Details": ["Chicken, Beef, Pork and Shrimps"],
         "price" : "8.95",
         "spicy": false
     },
@@ -23,28 +23,39 @@
         "price" : "7.95",
         "spicy": false
     },
-        {
+            {
         "food_id":"143",
+        "food_name": "Beef Egg Foo Yong",
+        "category": "Egg Foo Yong",
+        "Details": "",
+        "price" : "7.95",
+        "spicy": false
+    },
+        {
+        "food_id":"144",
         "food_name": "Vegetable Egg Foo Yong",
         "category": "Egg Foo Yong",
         "Details": "",
         "price" : "7.25",
         "spicy": false
     },
+            {
+        "food_id":"145",
+        "food_name": "Mushroom Egg Foo Yong",
+        "category": "Egg Foo Yong",
+        "Details": "",
+        "price" : "7.50",
+        "spicy": false
+    },
+
         {
-        "food_id":"144",
+        "food_id":"146",
         "food_name": "Shrimp Egg Foo Yong",
         "category": "Egg Foo Yong",
         "Details": "",
         "price" : "8.50",
         "spicy": false
-    },
-        {
-        "food_id":"145",
-        "food_name": "Beef Egg Foo Yong",
-        "category": "Egg Foo Yong",
-        "Details": "",
-        "price" : "7.95",
-        "spicy": false
     }
+
+
 ]
