@@ -55,11 +55,11 @@
         "price" : "9.95",
         "spicy": true
     },
-                {
+         {
         "food_id":"168",
         "food_name": "Tai Dop Voy",
         "category": "Chef's Suggestions",
-        "Details": "Sliced Chicken, Pork & Shrimps w/ Mixed Vegetables",
+        "Details": ["Sliced Chicken, Pork & Shrimps w/ Mixed Vegetables"],
         "price" : "9.95",
         "spicy": false
     }
