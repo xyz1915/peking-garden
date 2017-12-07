@@ -59,7 +59,7 @@
         "food_id":"097",
         "food_name": "Satay Beef",
         "category": "Beef",
-        "Details": ["with Onion & Mushrooms in Tasty Hot & Spicy Sauce"],
+        "Details": "",
         "price" : "9.50",
         "spicy": true
     },
@@ -67,7 +67,7 @@
         "food_id":"098",
         "food_name": "Three Mushrooms w/ Beef",
         "category": "Beef",
-        "Details": ["Straws & Fresh Mushrooms, Celery, Pea Pods & Baby Corn with Beef"],
+        "Details": "",
         "price" : "10.75",
         "spicy": false
     },

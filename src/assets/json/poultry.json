@@ -83,7 +83,7 @@
         "food_id":"070",
         "food_name": "Three Mushrooms with Chicken",
         "category": "Poultry",
-        "Details": ["Straws & Fresh Mushrooms, Celery, Pea Pods & Baby Corn with Chicken"],
+        "Details": "",
         "price" : "10.75",
         "spicy": false
     },
