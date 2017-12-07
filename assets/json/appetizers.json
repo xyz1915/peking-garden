@@ -62,5 +62,13 @@
         "Details": "",
         "price" : "7.95",
         "spicy": false
+    },
+                    {
+        "food_id":"018",
+        "food_name": "Fried Meat Dumpling(6)",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "7.95",
+        "spicy": false
     }
   ]
