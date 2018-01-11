@@ -4,7 +4,7 @@
         "food_name": "Sauteed Broccoli",
         "category": "Vegetable",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.75",
         "spicy": false
     },
         {
@@ -12,7 +12,7 @@
         "food_name": "Sauteed Mix Vegetables",
         "category": "Vegetable",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.75",
         "spicy": false
     },
         {
@@ -20,7 +20,7 @@
         "food_name": "Diced Vegs & Almonds",
         "category":"" ,
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.75",
         "spicy": false
     },
         {
@@ -28,7 +28,7 @@
         "food_name": "Fried Fresh Mushrooms",
         "category": "Vegetable",
         "Details": "",
-        "price" : "7.75",
+        "price" : "7.95",
         "spicy": false
     },
         {
@@ -36,7 +36,7 @@
         "food_name": "Plain Fried Snow Pea Pods",
         "category": "Vegetable",
         "Details": "",
-        "price" : "7.95",
+        "price" : "8.50",
         "spicy": false
     },
         {
@@ -44,7 +44,7 @@
         "food_name": "Tofu w/ Mix Vegs (Garlic/Black Bean)",
         "category": "Vegetable",
         "Details": "",
-        "price" : "7.95",
+        "price" : "8.25",
         "spicy": false
     },
             {
@@ -52,15 +52,23 @@
         "food_name": "Pepper Tofu",
         "category": "Vegetable",
         "Details": "",
+        "price" : "8.25",
+        "spicy": true
+    },
+                {
+        "food_id":"117",
+        "food_name": "Ma Po Tofu",
+        "category": "Vegetable",
+        "Details": "",
         "price" : "7.95",
         "spicy": true
     },
               {
-        "food_id":"116",
+        "food_id":"118",
         "food_name": "Chinese Bakchoy",
         "category": "Vegetable",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.75",
         "spicy": false
     }
 ]

@@ -12,7 +12,7 @@
         "food_name": "Egg Roll",
         "category": "Appetizer",
         "Details": "",
-        "price" : "1.10",
+        "price" : "1.20",
         "spicy": false
     },
         {
@@ -20,7 +20,7 @@
         "food_name": "Chicken & Shrimp Spring Roll",
         "category": "Appetizer",
         "Details": "",
-        "price" : "1.60",
+        "price" : "1.70",
         "spicy": false
     },
         {
@@ -28,7 +28,7 @@
         "food_name": "Vegetable Spring Roll",
         "category": "Appetizer",
         "Details": "",
-        "price" : "1.40",
+        "price" : "1.60",
         "spicy": false
     },
         {
@@ -36,7 +36,7 @@
         "food_name": "Shrimp Roll",
         "category": "Appetizer",
         "Details": "",
-        "price" : "1.70",
+        "price" : "1.80",
         "spicy": false
     },
         {
@@ -44,7 +44,7 @@
         "food_name": "Fried Wonton w/ Sweet & Sour Sauce",
         "category": "Appetizer",
         "Details": "",
-        "price" : "4.75",
+        "price" : "4.95",
         "spicy": false
     },
             {
@@ -52,7 +52,7 @@
         "food_name": "Deep Fried Chicken Wings",
         "category": "Appetizer",
         "Details": "",
-        "price" : "8.50",
+        "price" : "8.95",
         "spicy": false
     },
                 {
@@ -60,15 +60,15 @@
         "food_name": "Barbecued Pork Slices",
         "category": "Appetizer",
         "Details": "",
-        "price" : "7.95",
+        "price" : "8.25",
         "spicy": false
     },
                     {
         "food_id":"018",
-        "food_name": "Fried Meat Dumpling (6)",
+        "food_name": "French Fries",
         "category": "Appetizer",
         "Details": "",
-        "price" : "7.95",
+        "price" : "3.50",
         "spicy": false
     }
   ]

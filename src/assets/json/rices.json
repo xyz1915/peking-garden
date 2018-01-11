@@ -5,7 +5,7 @@
         "food_name": "Peking Fried Rice",
         "category": "Rice",
         "Details": ["Chicken, Beef, Pork and Shrimps"],
-        "price" : "8.25",
+        "price" : "8.50",
         "spicy": false
         
     },
@@ -14,7 +14,7 @@
         "food_name": "Steam Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "2.00",
+        "price" : "2.25",
         "spicy": false
     },
         {
@@ -22,7 +22,7 @@
         "food_name": "Plain Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "4.80",
+        "price" : "4.95",
         "spicy": false
     },
         {
@@ -30,7 +30,7 @@
         "food_name": "Vegetable Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "5.95",
+        "price" : "6.25",
         "spicy": false
     },
             {
@@ -38,7 +38,7 @@
         "food_name": "Mushroom Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "5.95",
+        "price" : "6.25",
         "spicy": false
     },
 
@@ -47,7 +47,7 @@
         "food_name": "Chicken Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "6.50",
+        "price" : "6.75",
         "spicy": false
     },
     {
@@ -55,7 +55,7 @@
         "food_name": "Beef Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "6.50",
+        "price" : "6.75",
         "spicy": false
     },
     {
@@ -63,7 +63,7 @@
         "food_name": "Pork Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "6.50",
+        "price" : "6.75",
         "spicy": false
     },
     {
@@ -71,7 +71,7 @@
         "food_name": "Shrimp Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "7.75",
+        "price" : "7.95",
         "spicy": false
     },
         {
@@ -79,7 +79,7 @@
         "food_name": "Yong Chow Fried Rice",
         "category": "Rice",
         "Details": ["BBQ Pork & Shrimp"],
-        "price" : "7.95",
+        "price" : "8.25",
         "spicy": false
     },
     {
@@ -87,7 +87,7 @@
         "food_name": "Bacon Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.95",
         "spicy": false
     }
 

@@ -1,0 +1,139 @@
+[
+    {
+        "food_id":"210",
+        "food_name": "Coke",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+
+    {
+        "food_id":"211",
+        "food_name": "Diet Coke",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"212",
+        "food_name": "Ginger Ale",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"213",
+        "food_name": "Sprite",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"214",
+        "food_name": "7-UP",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"215",
+        "food_name": "Orange Crush",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"216",
+        "food_name": "Grape Crush",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"217",
+        "food_name": "Cream Soda",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"218",
+        "food_name": "Pepsi",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"219",
+        "food_name": "Coke Zero",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"220",
+        "food_name": "Nestea",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.50",
+        "spicy": false
+    },
+        {
+        "food_id":"221",
+        "food_name": "Root Beer",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+        {
+        "food_id":"222",
+        "food_name": "Mountain Dew",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.35",
+        "spicy": false
+    },
+            {
+        "food_id":"223",
+        "food_name": "Apple Juice",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.50",
+        "spicy": false
+    },
+            {
+        "food_id":"224",
+        "food_name": "Orange Juice",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.50",
+        "spicy": false
+    },
+                {
+        "food_id":"225",
+        "food_name": "Fruit Punch",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.50",
+        "spicy": false
+    },
+                {
+        "food_id":"226",
+        "food_name": "Bottled Water",
+        "category": "beverage",
+        "Details": "",
+        "price" : "1.25",
+        "spicy": false
+    }
+]

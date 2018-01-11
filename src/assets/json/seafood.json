@@ -4,7 +4,7 @@
         "food_name": "Shrimps in Oyster Sauce",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
+        "price" : "10.75",
         "spicy": false
     },
         {
@@ -12,7 +12,7 @@
         "food_name": "Shrimps w/ Broccoli",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
+        "price" : "10.75",
         "spicy": false
     },
         {
@@ -20,7 +20,7 @@
         "food_name": "Shrimps w/ Diced Vegs & Almonds",
         "category": "Seafood",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": false
     },
         {
@@ -28,7 +28,7 @@
         "food_name": "Shrimps w/ Mixed Vegetables",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
+        "price" : "10.75",
         "spicy": false
     },
         {
@@ -36,7 +36,7 @@
         "food_name": "Shrimps w/ Lobster Sauce",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
+        "price" : "10.75",
         "spicy": false
     },
   
@@ -63,7 +63,7 @@
         "food_name": "Chicken, Shrimps & Scallops w/ Mixed Vegetables",
         "category": "Seafood",
         "Details": "",
-        "price" : "11.95",
+        "price" : "12.95",
         "spicy": false
     },
   
@@ -72,7 +72,7 @@
         "food_name": "Curry Shrimps",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
+        "price" : "10.75",
         "spicy": false
     }
 ]

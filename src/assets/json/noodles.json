@@ -13,7 +13,7 @@
         "food_name": "Chicken Lo Mein",
         "category": "Noodles",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": false
     },
         {
@@ -21,7 +21,7 @@
         "food_name": "Beef Lo Mein",
         "category": "Noodles",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": false
     },
           {
@@ -29,7 +29,7 @@
         "food_name": "Pork Lo Mein",
         "category": "Noodles",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": false
     },
 
@@ -54,15 +54,15 @@
         "food_name": "Mixed Vegetables Lo Mein",
         "category": "Noodles",
         "Details": "",
-        "price" : "7.75",
+        "price" : "7.95",
         "spicy": false
     },
         {
         "food_id":"047",
         "food_name": "Seafood Chow Mein",
         "category": "Noodles",
-        "Details": ["Shrimps, Scallops & Calamari"],
-        "price" : "11.95",
+        "Details": ["Shrimps, Scallops & Calamari w/ Mixed Vegetables"],
+        "price" : "12.50",
         "spicy": false
     },
             {
@@ -70,7 +70,7 @@
         "food_name": "ShangHai Noodle",
         "category": "Noodles",
         "Details": ["Thick Noodle Fried with Shrimps, Chicken & Veg.Spicy"],
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": true
     },
                 {
@@ -78,7 +78,7 @@
         "food_name": "Beef ShangHai Noodle",
         "category": "Noodles",
         "Details": ["Thick Noodle Tossed w/ Slices of Beef in Spicy Chili Paste"],
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": true
     },
 
@@ -87,7 +87,7 @@
         "food_name": "Fried Flat Rice Noodle with Beef",
         "category": "Noodles",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.95",
         "spicy": false
     },
             {
@@ -95,7 +95,7 @@
         "food_name": "Thai Rice Noodle",
         "category": "Noodles",
         "Details": ["Stir Fried Flat Rice Noodle with Shrimps, Chicken & Egg in Pad Thai Flavour Sauce"],
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": true
     },
 
@@ -104,7 +104,7 @@
         "food_name": "Singapore Mi-Fun (Fried Vermicelli)",
         "category": "Noodles",
         "Details": ["Spicy Curry Flavour w/ Shrimps & BBQ Pork"],
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": true
     },
     
@@ -113,7 +113,7 @@
         "food_name": "Fine Noodle w/ Bean Sprout Soy Sauce",
         "category": "Noodles",
         "Details": "",
-        "price" : "7.75",
+        "price" : "7.95",
          "spicy": false
     },
                     {

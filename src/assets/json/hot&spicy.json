@@ -4,7 +4,7 @@
         "food_name": "Hunan Beef",
         "category": "Spicy",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.95",
         "spicy": true
     },
         {
@@ -12,7 +12,7 @@
         "food_name": "Kum Poo Diced Chicken or Beef",
         "category": "Spicy",
         "Details": ["with Diced Vegetables"],
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": true
     },
         {
@@ -20,7 +20,7 @@
         "food_name": "Chili Shrimp",
         "category": "Spicy",
         "Details": "",
-        "price" : "10.95",
+        "price" : "11.50",
         "spicy": true
     },
         {
@@ -28,7 +28,7 @@
         "food_name": "Kum Poo Jumbo Shrimp",
         "category": "Spicy",
         "Details": "",
-        "price" : "9.75",
+        "price" : "9.95",
         "spicy": true
     },
         {
@@ -36,7 +36,7 @@
         "food_name": "Chili Chicken or Beef",
         "category": "Spicy",
         "Details": "",
-        "price" : "9.75",
+        "price" : "9.95",
         "spicy": true
     },
         {
@@ -44,7 +44,7 @@
         "food_name": "General Tso's Chicken",
         "category": "Spicy",
         "Details": "",
-        "price" : "9.75",
+        "price" : "9.95",
         "spicy": true
     },
         {
@@ -52,7 +52,7 @@
         "food_name": "Empress Chicken",
         "category": "Spicy",
         "Details": "",
-        "price" : "9.75",
+        "price" : "9.95",
         "spicy": true
     },
         {
@@ -60,7 +60,7 @@
         "food_name": "Szechuan Chicken or Beef",
         "category": "Spicy",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": true
     }
 ]

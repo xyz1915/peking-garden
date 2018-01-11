@@ -12,7 +12,7 @@
         "food_name": "Shrimp Chop Suey",
         "category": "Chop Suey",
         "Details": "",
-        "price" : "7.95",
+        "price" : "8.25",
         "spicy": false
     },
         {
@@ -20,7 +20,7 @@
         "food_name": "Chicken Chop Suey",
         "category": "Chop Suey",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.75",
         "spicy": false
     },
         {
@@ -28,7 +28,7 @@
         "food_name": "Beef Chop Suey",
         "category": "Chop Suey",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.75",
         "spicy": false
     },
         {
@@ -36,7 +36,7 @@
         "food_name": "B.B.Q. Pork Chop Suey",
         "category": "Chop Suey",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.75",
         "spicy": false
     },
         {
@@ -44,7 +44,7 @@
         "food_name": "Vegetable Chop Suey",
         "category": "Chop Suey",
         "Details": "",
-        "price" : "6.50",
+        "price" : "6.75",
         "spicy": false
     }
 ]

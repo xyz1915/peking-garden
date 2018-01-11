@@ -12,7 +12,7 @@
         "food_name": "Combo #2",
         "category": "Appetizer",
         "Details": ["Sweet & Sour Chicken Balls (4)","Chicken Chop Suey", "Chicken Fried Rice"],
-        "price" : "8.25",
+        "price" : "8.50",
         "spicy":false
     },
         {
@@ -20,7 +20,7 @@
         "food_name": "Combo #3",
         "category": "Appetizer",
         "Details": ["General Tao Chicken w/ Chicken Fried Rice"],
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy":false
     },
         {
@@ -28,7 +28,7 @@
         "food_name": "Combo #4",
         "category": "Appetizer",
         "Details": ["Beef w/ Mix Vegetables w/ Chicken Fried Rice"],
-        "price" : "8.75",
+        "price" : "8.95",
         "spicy":false
     },
         {
@@ -44,7 +44,7 @@
         "food_name": "Combo #6",
         "category": "Appetizer",
         "Details": ["Sweet & Sour Shrimps (3)","Chicken Chop Suey", "Chicken Fried Rice "],
-        "price" : "8.25",
+        "price" : "8.50",
         "spicy":false
     },
         {
@@ -52,7 +52,7 @@
         "food_name": "Combo #7",
         "category": "Appetizer",
         "Details": ["Deep Fried Chicken Wings", "Beef w/ Diced Vegetables", "Chicken Fried Rice"],
-        "price" : "8.25",
+        "price" : "8.50",
         "spicy":false
     },
         {
@@ -60,7 +60,7 @@
         "food_name": "Combo #8",
         "category": "Appetizer",
         "Details": ["Lemon Chicken", "Beef w/ Diced Vegetables", "Chicken Fried Rice "],
-        "price" : "8.25",
+        "price" : "8.50",
         "spicy":false
     },
         {
@@ -68,7 +68,7 @@
         "food_name": "Combo #9",
         "category": "Appetizer",
         "Details": ["Deep Fried Chicken Wings", "Chicken Fried Rice"],
-        "price" : "7.25",
+        "price" : "7.50",
         "spicy":false
     },
         {
@@ -76,7 +76,7 @@
         "food_name": "Combo #10",
         "category": "Appetizer",
         "Details": ["Sweet & Sour Chicken Balls", "Chicken Fried Rice"],
-        "price" : "7.25",
+        "price" : "7.50",
         "spicy":false
     },
         {
@@ -84,7 +84,7 @@
         "food_name": "Combo #11",
         "category": "Appetizer",
         "Details": ["Egg Roll", "BBQ Pork Spareribs", "Deep Fried Chicken Wings", "Chicken Fried Rice"],
-        "price" : "9.30",
+        "price" : "9.50",
         "spicy":false
     },
         {
@@ -92,7 +92,7 @@
         "food_name": "Combo #12",
         "category": "Appetizer",
         "Details": ["Sweet & Sour Spareribs", "Chicken Fried Rice"],
-        "price" : "7.25",
+        "price" : "7.50",
         "spicy":false
     },
             {
@@ -100,7 +100,7 @@
         "food_name": "Combo #13",
         "category": "Appetizer",
         "Details": ["Deep Fried Chicken Wings", "Sweet & Sour Chicken Balls", "Chicken Fried Rice"],
-        "price" : "8.25",
+        "price" : "8.50",
         "spicy":false
     }
 ]

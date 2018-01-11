@@ -4,7 +4,7 @@
         "food_name": "Spicy Chicken Wings (12)",
         "category": "Chef's Suggestions",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": true
     },
         {
@@ -12,7 +12,7 @@
         "food_name": "Salty Pepper Chicken",
         "category": "Chef's Suggestions",
         "Details": "",
-        "price" : "9.75",
+        "price" : "9.95",
         "spicy": true
     },
         {
@@ -44,23 +44,16 @@
         "food_name": "Salty Pepper Shrimp or Squid",
         "category": "Chef's Suggestions",
         "Details": "",
-        "price" : "10.95",
+        "price" : "11.50",
         "spicy": true
     },
-            {
-        "food_id":"167",
-        "food_name": "Salty Pepper Fish",
-        "category": "Chef's Suggestions",
-        "Details": "",
-        "price" : "9.95",
-        "spicy": true
-    },
+
          {
-        "food_id":"168",
+        "food_id":"167",
         "food_name": "Tai Dop Voy",
         "category": "Chef's Suggestions",
         "Details": ["Sliced Chicken, Pork & Shrimps w/ Mixed Vegetables"],
-        "price" : "9.95",
+        "price" : "10.25",
         "spicy": false
     }
 ]

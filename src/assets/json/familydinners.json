@@ -4,7 +4,7 @@
         "food_name": "Dinner for 2A1",
         "category": "Family",
         "Details": ["2 Egg Rolls","Chicken Chop Suey", "Sweet & Sour Spareribs","Deep Fried Chicken Wings(6)", "Chicken Fried Rice"],
-        "price" : "22.95",
+        "price" : "23.50",
         "spicy":false
     },
     {
@@ -12,7 +12,7 @@
         "food_name": "Dinner for 2A2",
         "category": "Family",
         "Details": ["2 Egg Rolls","Chicken Chop Suey", "Sweet & Sour Chicken Balls (8) ","Deep Fried Chicken Wings(6)", "Chicken Fried Rice"],
-        "price" : "22.95",
+        "price" : "23.50",
         "spicy":false
     },
     {
@@ -41,7 +41,7 @@
         "food_name": "Dinner for 5",
         "category": "Family",
         "Details": ["5 Egg Rolls","Chicken Chop Suey(L)","Beef & Mixed Veg", "Sweet & Sour Spareribs(L)","Breaded Jumbo Shrimp","Sweet & Sour Chicken Balls(L)","Deep Fried Chicken Wings(L)", "Chicken Fried Rice (2)"],
-        "price" : "57.95",
+        "price" : "58.95",
         "spicy":false
     },    {
         "food_id":"6A",

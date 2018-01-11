@@ -4,7 +4,7 @@
         "food_name": "Beef w/ Snow Peas",
         "category": "Beef",
         "Details": "",
-        "price" : "9.95",
+        "price" : "10.50",
         "spicy": false
     },
         {
@@ -12,7 +12,7 @@
         "food_name": "Beef w/ Oyster Sauce",
         "category": "Beef",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.95",
         "spicy": false
     },
         {
@@ -20,7 +20,7 @@
         "food_name": "Beef w/ Mixed Vegetables",
         "category": "Beef",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": false
     },
         {
@@ -28,7 +28,7 @@
         "food_name": "Beef w/ Diced Vegs & Almonds",
         "category": "Beef",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": false
     },
         {
@@ -36,7 +36,7 @@
         "food_name": "Beef w/ Mushrooms & Onions",
         "category": "Beef",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": false
     },
         {
@@ -44,7 +44,7 @@
         "food_name": "Beef w/ Broccoli",
         "category": "Beef",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": false
     },
         {
@@ -60,7 +60,7 @@
         "food_name": "Satay Beef",
         "category": "Beef",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": true
     },
         {

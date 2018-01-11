@@ -48,6 +48,7 @@ beefList  = new Array();
 porkList  = new Array();
 vegetableList  = new Array();
 chefList = new Array();
+beverageList = new Array();
 
 
 
@@ -115,7 +116,9 @@ category="Appetizers";
     this.request = this._http.get('assets/json/chef.json').subscribe(data => {        
       this.chefList =data.json()
     })
-    
+    this.request = this._http.get('assets/json/pop.json').subscribe(data => {        
+      this.beverageList =data.json()
+    })
     
 
     
@@ -196,6 +199,10 @@ category="Appetizers";
   case "chef": 
       this.foodItemList = this.chefList; 
       this.category="Chef's Suggestions";
+      break;
+  case "beverage": 
+      this.foodItemList = this.beverageList; 
+      this.category="Beverages";
       break;
    default:  
      this.foodItemList = this.appetizerList; 
