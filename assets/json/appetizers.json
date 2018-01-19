@@ -20,7 +20,7 @@
         "food_name": "Chicken & Shrimp Spring Roll",
         "category": "Appetizer",
         "Details": "",
-        "price" : "1.70",
+        "price" : "1.60",
         "spicy": false
     },
         {
@@ -28,7 +28,7 @@
         "food_name": "Vegetable Spring Roll",
         "category": "Appetizer",
         "Details": "",
-        "price" : "1.60",
+        "price" : "1.50",
         "spicy": false
     },
         {
@@ -36,7 +36,7 @@
         "food_name": "Shrimp Roll",
         "category": "Appetizer",
         "Details": "",
-        "price" : "1.80",
+        "price" : "1.70",
         "spicy": false
     },
         {
