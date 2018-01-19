@@ -41,7 +41,7 @@
     },
         {
         "food_id":"015",
-        "food_name": "Fried Wonton w/ Sweet & Sour Sauce",
+        "food_name": "Fried Wontons - Sweet & Sour Sauce",
         "category": "Appetizer",
         "Details": "",
         "price" : "4.95",
@@ -55,8 +55,16 @@
         "price" : "8.95",
         "spicy": false
     },
-                {
+    {
         "food_id":"017",
+        "food_name": "Jar Do Chicken Wings (no batter)",
+        "category": "Appetizer",
+        "Details": "",
+        "price" : "8.95",
+        "spicy": false
+    },
+                {
+        "food_id":"018",
         "food_name": "Barbecued Pork Slices",
         "category": "Appetizer",
         "Details": "",
@@ -64,7 +72,7 @@
         "spicy": false
     },
                     {
-        "food_id":"018",
+        "food_id":"019",
         "food_name": "French Fries",
         "category": "Appetizer",
         "Details": "",

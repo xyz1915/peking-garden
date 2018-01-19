@@ -1,6 +1,6 @@
 [
     {
-        "food_id":"080",
+        "food_id":"101",
         "food_name": "Hunan Beef",
         "category": "Spicy",
         "Details": "",
@@ -8,47 +8,63 @@
         "spicy": true
     },
         {
-        "food_id":"081",
-        "food_name": "Kum Poo Diced Chicken or Beef",
+        "food_id":"102",
+        "food_name": "Kung Po Chicken with Diced Vegetables",
         "category": "Spicy",
-        "Details": ["with Diced Vegetables"],
+        "Details": "",
+        "price" : "9.25",
+        "spicy": true
+    },
+    {
+        "food_id":"103",
+        "food_name": "Kung Po Beef with Diced Vegetables",
+        "category": "Spicy",
+        "Details": "",
         "price" : "9.25",
         "spicy": true
     },
         {
-        "food_id":"082",
-        "food_name": "Chili Shrimp",
+        "food_id":"104",
+        "food_name": "Chili Shrimps",
         "category": "Spicy",
         "Details": "",
         "price" : "11.50",
         "spicy": true
     },
         {
-        "food_id":"083",
-        "food_name": "Kum Poo Jumbo Shrimp",
+        "food_id":"105",
+        "food_name": "Kung Po Shrimps with Diced Vegetables",
         "category": "Spicy",
         "Details": "",
         "price" : "9.95",
         "spicy": true
     },
         {
-        "food_id":"084",
-        "food_name": "Chili Chicken or Beef",
+        "food_id":"106",
+        "food_name": "Chili Chicken",
+        "category": "Spicy",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": true
+    },
+    {
+        "food_id":"107",
+        "food_name": "Chili Beef",
         "category": "Spicy",
         "Details": "",
         "price" : "9.95",
         "spicy": true
     },
         {
-        "food_id":"085",
-        "food_name": "General Tso's Chicken",
+        "food_id":"108",
+        "food_name": "General Tao Chicken",
         "category": "Spicy",
         "Details": "",
         "price" : "9.95",
         "spicy": true
     },
         {
-        "food_id":"086",
+        "food_id":"109",
         "food_name": "Empress Chicken",
         "category": "Spicy",
         "Details": "",
@@ -56,8 +72,16 @@
         "spicy": true
     },
         {
-        "food_id":"086",
-        "food_name": "Szechuan Chicken or Beef",
+        "food_id":"110",
+        "food_name": "Szechuan Chicken with Vegetables",
+        "category": "Spicy",
+        "Details": "",
+        "price" : "9.75",
+        "spicy": true
+    },
+    {
+        "food_id":"111",
+        "food_name": "Szechuan Beef with Vegetables",
         "category": "Spicy",
         "Details": "",
         "price" : "9.75",
