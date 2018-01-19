@@ -1,93 +1,94 @@
 [
 
         {
-        "food_id":"030",
+        "food_id":"041",
         "food_name": "Peking Fried Rice",
         "category": "Rice",
-        "Details": ["Chicken, Beef, Pork and Shrimps"],
-        "price" : "8.25",
+        "Details": ["Chicken, Beef, BBQ Pork and Shrimps"],
+        "price" : "8.50",
         "spicy": false
         
     },
             {
-        "food_id":"031",
+        "food_id":"042",
         "food_name": "Steam Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "2.00",
+        "price" : "2.25",
         "spicy": false
     },
         {
-        "food_id":"032",
+        "food_id":"043",
         "food_name": "Plain Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "4.80",
+        "price" : "4.95",
         "spicy": false
     },
         {
-        "food_id":"033",
-        "food_name": "Vegetable Fried Rice",
+        "food_id":"044",
+        "food_name": "Vegetables Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "5.95",
+        "price" : "6.25",
         "spicy": false
     },
             {
-        "food_id":"034",
+        "food_id":"045",
         "food_name": "Mushroom Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "5.95",
+        "price" : "6.25",
+        "spicy": false
+    },
+    {
+        "food_id":"046",
+        "food_name": "Shrimps Fried Rice",
+        "category": "Rice",
+        "Details": "",
+        "price" : "7.95",
         "spicy": false
     },
 
     {
-        "food_id":"035",
+        "food_id":"047",
         "food_name": "Chicken Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "6.50",
+        "price" : "6.75",
         "spicy": false
     },
     {
-        "food_id":"036",
+        "food_id":"048",
         "food_name": "Beef Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "6.50",
+        "price" : "6.75",
         "spicy": false
     },
     {
-        "food_id":"037",
-        "food_name": "Pork Fried Rice",
+        "food_id":"049",
+        "food_name": "BBQ Pork Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "6.50",
+        "price" : "6.75",
         "spicy": false
     },
-    {
-        "food_id":"038",
-        "food_name": "Shrimp Fried Rice",
-        "category": "Rice",
-        "Details": "",
-        "price" : "7.75",
-        "spicy": false
-    },
+    
         {
-        "food_id":"039",
+        "food_id":"050",
         "food_name": "Yong Chow Fried Rice",
         "category": "Rice",
         "Details": ["BBQ Pork & Shrimp"],
-        "price" : "7.95",
+        "price" : "8.25",
         "spicy": false
     },
     {
-        "food_id":"040",
+        "food_id":"051",
         "food_name": "Bacon Fried Rice",
         "category": "Rice",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.95",
         "spicy": false
     }
 

@@ -1,102 +1,95 @@
 [
     {
-        "food_id":"060",
-        "food_name": "Lemon Chicken",
-        "category": "Poultry",
-        "Details": "",
-        "price" : "9.75",
-        "spicy": false
-    },
-        {
-        "food_id":"061",
+        "food_id":"070",
         "food_name": "Honey Garlic Chicken Wings",
         "category": "Poultry",
         "Details": "",
-        "price" : "8.75",
+        "price" : "8.95",
+        "spicy": false
+    },
+    {
+        "food_id":"071",
+        "food_name": "Lemon Chicken",
+        "category": "Poultry",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": false
+    },
+    {
+        "food_id":"072",
+        "food_name": "Breaded Chicken Soo Gai",
+        "category": "Poultry",
+        "Details": "",
+        "price" : "9.95",
         "spicy": false
     },
             {
-        "food_id":"062",
-        "food_name": "Jar Do Chicken Wings",
+        "food_id":"073",
+        "food_name": "Chicken & Mixed Vegetables",
+        "category": "Poultry",
+        "Details": "",
+        "price" : "8.95",
+        "spicy": false
+    },
+            {
+        "food_id":"074",
+        "food_name": "Moo Goo Guy Pan",
+        "category": "Poultry",
+        "Details": ["Chicken with Mushrooms & Vegetables"],
+        "price" : "9.75",
+        "spicy": false
+    },
+            
+            {
+        "food_id":"075",
+        "food_name": "Chicken with Diced Vegetables & Almonds",
         "category": "Poultry",
         "Details": "",
         "price" : "8.75",
         "spicy": false
     },
             {
-        "food_id":"063",
-        "food_name": "Chicken w/ Mixed Vegetables",
+        "food_id":"076",
+        "food_name": "Satay Chicken",
         "category": "Poultry",
         "Details": "",
-        "price" : "8.75",
-        "spicy": false
+        "price" : "9.50",
+        "spicy": true
     },
             {
-        "food_id":"064",
-        "food_name": "Moo Koo Gai Pan",
+        "food_id":"077",
+        "food_name": "Chicken with Diced Vegetables & Cashew Nuts",
         "category": "Poultry",
-        "Details": ["Chicken w/ Mushrooms and Vegetables"],
+        "Details": ["with Diced Vegetables"],
         "price" : "9.50",
         "spicy": false
     },
             {
-        "food_id":"065",
-        "food_name": "Breaded Chicken Soo Gai",
-        "category": "Poultry",
-        "Details": "",
-        "price" : "9.75",
-        "spicy": false
-    },
-            {
-        "food_id":"066",
-        "food_name": "Chicken w/ Diced Vegs & Almonds",
-        "category": "Poultry",
-        "Details": "",
-        "price" : "8.50",
-        "spicy": false
-    },
-            {
-        "food_id":"067",
-        "food_name": "Satay Chicken",
+        "food_id":"078",
+        "food_name": "Chicken & Broccoli",
         "category": "Poultry",
         "Details": "",
         "price" : "9.25",
-        "spicy": true
-    },
-            {
-        "food_id":"068",
-        "food_name": "Chicken w/ Cashew Nuts",
-        "category": "Poultry",
-        "Details": ["with Diced Vegetables"],
-        "price" : "9.25",
         "spicy": false
     },
             {
-        "food_id":"069",
-        "food_name": "Chicken w/ Broccoli",
+        "food_id":"079",
+        "food_name": "Chicken with Three Mushrooms",
         "category": "Poultry",
         "Details": "",
-        "price" : "8.95",
-        "spicy": false
-    },
-            {
-        "food_id":"070",
-        "food_name": "Three Mushrooms with Chicken",
-        "category": "Poultry",
-        "Details": "",
-        "price" : "10.75",
+        "price" : "10.95",
         "spicy": false
     },
               {
-        "food_id":"071",
+        "food_id":"080",
         "food_name": "Chicken in Black Bean Sauce",
         "category": "Poultry",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": false
     },
               {
-        "food_id":"072",
+        "food_id":"081",
         "food_name": "Curry Chicken",
         "category": "Poultry",
         "Details": "",
@@ -104,11 +97,11 @@
         "spicy": true
     },
               {
-        "food_id":"073",
+        "food_id":"082",
         "food_name": "Black Pepper Chicken",
         "category": "Poultry",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": true
     }
 ]

@@ -1,78 +1,78 @@
 [
     {
-        "food_id":"090",
-        "food_name": "Beef w/ Snow Peas",
+        "food_id":"101",
+        "food_name": "Beef with Snow Peas",
+        "category": "Beef",
+        "Details": "",
+        "price" : "10.50",
+        "spicy": false
+    },
+        {
+        "food_id":"102",
+        "food_name": "Beef & Vegetables in Oyster Sauce",
         "category": "Beef",
         "Details": "",
         "price" : "9.95",
         "spicy": false
     },
         {
-        "food_id":"091",
-        "food_name": "Beef w/ Oyster Sauce",
+        "food_id":"103",
+        "food_name": "Beef & Mixed Vegetables",
         "category": "Beef",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.25",
         "spicy": false
     },
         {
-        "food_id":"092",
-        "food_name": "Beef w/ Mixed Vegetables",
+        "food_id":"104",
+        "food_name": "Beef with Diced Vegetables & Almonds",
         "category": "Beef",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": false
     },
         {
-        "food_id":"093",
-        "food_name": "Beef w/ Diced Vegs & Almonds",
+        "food_id":"105",
+        "food_name": "Beef with Mushrooms & Onions",
         "category": "Beef",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.75",
         "spicy": false
     },
         {
-        "food_id":"094",
-        "food_name": "Beef w/ Mushrooms & Onions",
+        "food_id":"106",
+        "food_name": "Beef & Broccoli",
         "category": "Beef",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.25",
         "spicy": false
     },
         {
-        "food_id":"095",
-        "food_name": "Beef w/ Broccoli",
-        "category": "Beef",
-        "Details": "",
-        "price" : "8.95",
-        "spicy": false
-    },
-        {
-        "food_id":"096",
-        "food_name": "Beef w/ Ginger & Scallion",
+        "food_id":"107",
+        "food_name": "Beef with Ginger & Scallion",
         "category": "Beef",
         "Details": "",
         "price" : "9.95",
         "spicy": false
     },
         {
-        "food_id":"097",
+        "food_id":"108",
         "food_name": "Satay Beef",
         "category": "Beef",
         "Details": "",
-        "price" : "9.50",
+        "price" : "9.75",
         "spicy": true
     },
         {
-        "food_id":"098",
-        "food_name": "Three Mushrooms w/ Beef",
+        "food_id":"109",
+        "food_name": "Beef with Three Mushrooms",
         "category": "Beef",
         "Details": "",
         "price" : "10.75",
         "spicy": false
     },
             {
-        "food_id":"099",
+        "food_id":"110",
         "food_name": "Beef in Black Bean Sauce",
         "category": "Beef",
         "Details": "",
@@ -80,11 +80,11 @@
         "spicy": false
     },
             {
-        "food_id":"100",
+        "food_id":"111",
         "food_name": "Curry Beef",
         "category": "Beef",
         "Details": "",
         "price" : "9.50",
-        "spicy": false
+        "spicy": true
     }
 ]

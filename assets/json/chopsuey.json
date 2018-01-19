@@ -1,50 +1,50 @@
 [
     {
-        "food_id":"030",
-        "food_name": "Peking Special Chop Suey",
+        "food_id":"031",
+        "food_name": "Peking Chop Suey",
         "category": "Chop Suey",
-        "Details": ["Bean Sprout w/ Chicken, Beef, Pork and Shrimp"],
+        "Details": ["Bean Sprouts with Chicken, Beef, Pork and Shrimps"],
         "price" : "8.95",
         "spicy": false
     },
         {
-        "food_id":"031",
-        "food_name": "Shrimp Chop Suey",
-        "category": "Chop Suey",
-        "Details": "",
-        "price" : "7.95",
-        "spicy": false
-    },
-        {
         "food_id":"032",
-        "food_name": "Chicken Chop Suey",
+        "food_name": "Shrimps Chop Suey",
         "category": "Chop Suey",
         "Details": "",
-        "price" : "7.50",
+        "price" : "8.25",
         "spicy": false
     },
         {
         "food_id":"033",
-        "food_name": "Beef Chop Suey",
+        "food_name": "Chicken Chop Suey",
         "category": "Chop Suey",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.75",
         "spicy": false
     },
         {
         "food_id":"034",
-        "food_name": "B.B.Q. Pork Chop Suey",
+        "food_name": "Beef Chop Suey",
         "category": "Chop Suey",
         "Details": "",
-        "price" : "7.50",
+        "price" : "7.75",
         "spicy": false
     },
         {
         "food_id":"035",
-        "food_name": "Vegetable Chop Suey",
+        "food_name": "BBQ Pork Chop Suey",
         "category": "Chop Suey",
         "Details": "",
-        "price" : "6.50",
+        "price" : "7.75",
+        "spicy": false
+    },
+        {
+        "food_id":"036",
+        "food_name": "Vegetables Chop Suey",
+        "category": "Chop Suey",
+        "Details": "",
+        "price" : "6.75",
         "spicy": false
     }
 ]

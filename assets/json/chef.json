@@ -1,66 +1,83 @@
 [
     {
-        "food_id":"161",
+        "food_id":"701",
         "food_name": "Spicy Chicken Wings (12)",
         "category": "Chef's Suggestions",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": true
     },
         {
-        "food_id":"162",
-        "food_name": "Salty Pepper Chicken",
+        "food_id":"702",
+        "food_name": "Pepper Chicken (Dry)",
         "category": "Chef's Suggestions",
         "Details": "",
-        "price" : "9.75",
+        "price" : "9.95",
         "spicy": true
     },
         {
-        "food_id":"163",
-        "food_name": "Sesame Chicken or Beef",
+        "food_id":"703",
+        "food_name": "Sesame Chicken",
+        "category": "Chef's Suggestions",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": false
+    },
+    {
+        "food_id":"704",
+        "food_name": "Sesame Beef",
         "category": "Chef's Suggestions",
         "Details": "",
         "price" : "9.95",
         "spicy": false
     },
         {
-        "food_id":"164",
-        "food_name": "Ginger Chicken or Beef",
+        "food_id":"705",
+        "food_name": "Ginger Chicken",
+        "category": "Chef's Suggestions",
+        "Details": "",
+        "price" : "9.95",
+        "spicy": true
+    },
+    {
+        "food_id":"706",
+        "food_name": "Ginger Beef",
         "category": "Chef's Suggestions",
         "Details": "",
         "price" : "9.95",
         "spicy": true
     },
         {
-        "food_id":"165",
+        "food_id":"707",
         "food_name": "Black Pepper Beef",
         "category": "Chef's Suggestions",
-        "Details": ["Beef Stir Fried w/ Green Pepper & Onions"],
+        "Details": "",
         "price" : "9.95",
         "spicy": true
     },
         {
-        "food_id":"166",
-        "food_name": "Salty Pepper Shrimp or Squid",
+        "food_id":"708",
+        "food_name": "Pepper Shrimp (Dry)",
         "category": "Chef's Suggestions",
         "Details": "",
-        "price" : "10.95",
+        "price" : "11.50",
         "spicy": true
     },
-            {
-        "food_id":"167",
-        "food_name": "Salty Pepper Fish",
+    {
+        "food_id":"709",
+        "food_name": "Pepper Calamari (Dry)",
         "category": "Chef's Suggestions",
         "Details": "",
-        "price" : "9.95",
+        "price" : "11.50",
         "spicy": true
     },
+
          {
-        "food_id":"168",
-        "food_name": "Tai Dop Voy",
+        "food_id":"710",
+        "food_name": "Dai Dop Voy",
         "category": "Chef's Suggestions",
-        "Details": ["Sliced Chicken, Pork & Shrimps w/ Mixed Vegetables"],
-        "price" : "9.95",
+        "Details": ["Chicken,BBQ Pork & Shrimps with Vegetables."],
+        "price" : "10.25",
         "spicy": false
     }
 ]

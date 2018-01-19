@@ -1,48 +1,57 @@
 [
     {
-        "food_id":"120",
-        "food_name": "Shrimps in Oyster Sauce",
+        "food_id":"401",
+        "food_name": "Shrimps & Vegetables in Oyster Sauce",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
+        "price" : "10.75",
         "spicy": false
     },
         {
-        "food_id":"121",
-        "food_name": "Shrimps w/ Broccoli",
+        "food_id":"402",
+        "food_name": "Shrimps & Broccoli",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
+        "price" : "10.75",
         "spicy": false
     },
         {
-        "food_id":"122",
-        "food_name": "Shrimps w/ Diced Vegs & Almonds",
+        "food_id":"403",
+        "food_name": "Shrimps with Diced Vegetables & Almonds",
         "category": "Seafood",
         "Details": "",
-        "price" : "8.95",
+        "price" : "9.25",
         "spicy": false
     },
         {
-        "food_id":"123",
-        "food_name": "Shrimps w/ Mixed Vegetables",
+        "food_id":"404",
+        "food_name": "Shrimps & Mixed Vegetables",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
+        "price" : "10.75",
         "spicy": false
     },
         {
-        "food_id":"124",
-        "food_name": "Shrimps w/ Lobster Sauce",
+        "food_id":"405",
+        "food_name": "Shrimps with Lobster Sauce",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
+        "price" : "10.75",
         "spicy": false
     },
   
         {
-        "food_id":"125",
-        "food_name": "Special Mixed Seafood",
+        "food_id":"406",
+        "food_name": "Seafood & Mixed Vegetables",
+        "category": "Seafood",
+        "Details": ["Shrimps, Scallops & Calamari."],
+        "price" : "12.95",
+        "spicy": false
+    },
+  
+        {
+        "food_id":"407",
+        "food_name": "Calamari & Shrimps with Vegetables",
         "category": "Seafood",
         "Details": "",
         "price" : "12.95",
@@ -50,8 +59,8 @@
     },
   
         {
-        "food_id":"126",
-        "food_name": "Calamari & Shrimps w/ Mixed Vegetables",
+        "food_id":"408",
+        "food_name": "Chicken, Shrimps & Scallops with Vegetables",
         "category": "Seafood",
         "Details": "",
         "price" : "12.95",
@@ -59,20 +68,11 @@
     },
   
         {
-        "food_id":"127",
-        "food_name": "Chicken, Shrimps & Scallops w/ Mixed Vegetables",
-        "category": "Seafood",
-        "Details": "",
-        "price" : "11.95",
-        "spicy": false
-    },
-  
-        {
-        "food_id":"128",
+        "food_id":"409",
         "food_name": "Curry Shrimps",
         "category": "Seafood",
         "Details": "",
-        "price" : "10.50",
-        "spicy": false
+        "price" : "10.75",
+        "spicy": true
     }
 ]
